@@ -1,0 +1,57 @@
+#site-name-and-slogan, #logo, #content, #sidebar, .service-container {
+	margin-right: 3.8%;
+	float: left;
+	min-height: 1px;
+}
+
+/* 7 cols */
+#site-name-and-slogan {
+  width: 56.75%;
+	text-align: left;
+}
+
+/* 5 cols */
+#logo {
+  width: 39.45%;
+	margin-right: 0px;
+}
+
+/* 8 cols */
+#content {
+	width: 65.4%;
+}
+
+/* 4 cols */
+#sidebar {
+	width: 30.5%;
+	margin-right: 0px;
+}
+
+
+/* padding and margins */
+#header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#name-and-slogan {
+  padding: 5px;
+  vertical-align: top;
+}
+
+#logo-link img {
+ width: 100%;
+}
+
+#main {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#sidebar ul {
+	padding-left: 30px;
+}
+
+.inner {
+  padding: 1px;
+}
